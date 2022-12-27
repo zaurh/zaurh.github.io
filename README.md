@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Salam</h1>
-<p>This site is designed for Zaur. ;)</p>
+<h1>Boltda zakaz var?</h1>
+<p></p>
 </body>
 </html>
