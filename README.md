@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Boltda zakaz var?</h1>
+<h1>Danışa bilirsiz? 🤔</h1>
 <p></p>
 </body>
 </html>
