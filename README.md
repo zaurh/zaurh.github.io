@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>This site is designed for Zaur ;)</p>
 </body>
 </html>
