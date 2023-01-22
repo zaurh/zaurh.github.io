@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Zaurway</h1>
+<h1>Zaurwa</h1>
 <p></p>
 </body>
 </html>
