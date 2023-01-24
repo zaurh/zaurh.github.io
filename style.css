@@ -16,3 +16,15 @@ h1 {
   -webkit-user-select: none;
   user-select: none;
 }
+h2 {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 2em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
