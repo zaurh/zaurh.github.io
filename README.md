@@ -1,6 +1,2 @@
-<html>
-<body>
-<h1>Zaurwa</h1>
-<p></p>
-</body>
-</html>
+<h1>Happy Birthday</h1>
+<canvas id="birthday"></canvas>
